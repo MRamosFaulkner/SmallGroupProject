@@ -3,3 +3,9 @@ a git command
     git pull
 
  This is a small group project.   
+ 
+ A git command
+ git push
+
+ Another comment
+ 
