@@ -14,4 +14,7 @@ a git command
  I have to add another git command  
     git merge
 
-This command will merge the two repos    
+This command will merge the two repos
+
+another git command 
+     git commit
