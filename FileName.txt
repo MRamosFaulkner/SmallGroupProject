@@ -11,3 +11,7 @@ a git command
 
  again!
  
+ I have to add another git command  
+    git merge
+
+This command will merge the two repos    
